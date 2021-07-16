@@ -1,0 +1,5 @@
+We were only allowed to code for the backend (Only Flask/Python) Only exception being the last user story.
+
+We had to write automated tests for most user stories. We could choose between PyTest and PostMan when writing tests
+
+We also had to make the Database in SQLite and make our own Database structure. ERD & SQL code for my DB will be given if requested
